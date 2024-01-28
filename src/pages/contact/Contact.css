@@ -1,0 +1,51 @@
+label:after { 
+    content:" *"; color: red;
+}
+input{
+    width: 100%;
+    height: 40px;
+}
+.message-field{
+    height: 120px;
+}
+.contact-content{
+    color: white;
+    background-color: #13037a;
+    padding: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+.fild{
+    padding: 10px 0;
+}
+.contact-list{
+    margin: 30px 0;
+}
+.social-icon{
+    font-size: 25px;
+    color: #b90818;
+    padding: 0 15px;
+}
+.social-icon:hover{
+    color: #13037a;
+}
+.working{
+    border-top: 1px solid #4b4f58;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+.working p{
+    display: inline;
+}
+/*Small Device*/
+@media screen and (max-width:600px){
+    input{
+        width: 100%;
+        height: 40px;
+    }
+    .contact-content{
+        width: 100%;
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+}

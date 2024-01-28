@@ -1,0 +1,24 @@
+#joint-sec{
+    background-color: #F3F9FC;
+}
+.service-container{
+    text-align: center;
+}
+.service-row{
+    margin-top: 40px;
+}
+.service-imgs{
+    width: 500px;
+    border-radius: 5px;
+    border: 4px solid #b90818;
+}
+.service-box{
+    margin-top: 30px;
+}
+/*Small Device*/
+@media screen and (max-width:600px){
+    .service-imgs{
+        width: 300px;
+        
+    }
+}

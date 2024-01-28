@@ -1,0 +1,38 @@
+#treatment-sec{
+    background-color: #F3F9FC;
+}
+.treatment-div{
+    text-align: center;
+}
+.treatment-div p{
+    padding-bottom: 50px;
+    border-bottom: 1px solid #4b4f58;
+}
+.treats-box{
+    margin-top: 40px;
+}
+.treats-imgs{
+    width: 500px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.leg-img{
+    width: 520px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+/*Small Device*/
+@media screen and (max-width:600px){
+    .treatment-div p{
+        padding-bottom: 30px;
+    }
+    .treats-box{
+        margin-top: 25px;
+    }
+    .treats-imgs{
+        width: 300px;
+       
+    }
+    .leg-img{
+        display: none;    }
+}

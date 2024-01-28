@@ -1,0 +1,76 @@
+.about-img{
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.moreabout-btn{
+    background-color: #b90818;
+    border-radius: 50px;
+    padding: 10px 20px;
+    
+}
+.moreabout-btn:hover{
+    background-color: #b90818;
+    transform: translateY(-5px);
+}
+
+.aboutsec-appointment{
+    text-align: center;
+    border-top: 1px solid #4b4f58;
+    margin-top: 100px;
+    padding: 40px 0 0 0;
+}
+.aboutsec-icon{
+    color: #13037a;
+    font-size: 40px;
+}
+.aboutsecicon-word{
+    color: #13037a;
+    display: inline;
+    padding-left: 25px;
+}
+.aboutsec-appointment button{
+    margin-top: 40px;
+}
+#medical-care{
+    background-color: #13037a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.medicare-box{
+    background-color: white;
+    width: 45%;
+    border-radius: 5px;
+    padding: 80px;
+}
+.medicare-content .about-icons{
+    background-color: #b90818;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+.medicare-content .about-points{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+/*Small Device*/
+@media screen and (max-width:600px){
+    /*About Us Section*/
+    .about-img{
+        align-items: center;
+        justify-content: center;
+       width: 250px;
+       border-radius: 10px;
+       margin-bottom: 20px;
+    }
+    .aboutsec-appointment{
+        margin-top: 50px;
+        padding: 20px 0 0 0;
+    }
+    .medicare-box{
+        width: 90%;
+        padding: 50px;
+    }
+}

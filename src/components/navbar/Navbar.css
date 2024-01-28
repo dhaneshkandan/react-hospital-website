@@ -1,0 +1,50 @@
+.navbar{
+	background: #F9FAFB; 
+	text-align: center;
+}
+.dropdown{
+	background: #F9FAFB; 
+}
+.navbar-brand{
+	font-size: 1.5rem;	
+	font-weight:800;
+	color:#13037a;
+}
+.logo{
+	color: #b90818;
+	font-size: 28px;
+	padding-right: 10px;
+}
+.navbar-brand:hover{
+	color: #13037a;
+}
+.nav-item{
+    padding: 0 15px;
+}
+.nav-link{
+    font-size: 1.1rem;
+	font-weight: 500;
+	color: #13037a;
+}
+.nav-link:hover{
+	color: #b90818;
+}
+.navbar-nav .nav-link.active{
+	color: #b90818;
+}
+.navbar-toggler{
+	background-color: #F9FAFB;
+}
+.navbar-toggler-icon{
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(5, 6, 15, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.appointment-btn{
+    background-color: #b90818;
+    border-radius: 50px;
+    padding: 8px 10px;
+
+}
+.appointment-btn:hover{
+    background-color: #b90818;
+    transform: translateY(-5px);
+}
