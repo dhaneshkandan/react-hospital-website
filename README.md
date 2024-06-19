@@ -1,6 +1,7 @@
 
 # [Hospital Website](https://dhanesh-hospital.netlify.app/)
 
+<img src="https://dhaneshkandan.github.io/img/Screenshot%202024-01-30%20at%206.53.47%20PM.jpg">
 
 Welcome to the Hospital Website project! This project is a multi-page website developed using React.js, Bootstrap, React Router, Vite.js, and Framer Motion. It serves as a comprehensive platform for hospitals to showcase their services, facilities, and medical expertise.
 
