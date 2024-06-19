@@ -4,7 +4,14 @@
 
 Welcome to the Hospital Website project! This project is a multi-page website developed using React.js, Bootstrap, React Router, Vite.js, and Framer Motion. It serves as a comprehensive platform for hospitals to showcase their services, facilities, and medical expertise.
 
+## Technologies Used
 
+- React.js
+- Bootstrap
+- React Router
+- Vite.js
+- Framer Motion
+  
 ## Table of contents 
 - Features
 - Demo
@@ -66,15 +73,6 @@ Open your web browser and visit http://localhost:3000 to view the website.
 
 
 
-
-
-## Technologies Used
-
-- React.js
-- Bootstrap
-- React Router
-- Vite.js
-- Framer Motion
 
 
 ## Contributing
